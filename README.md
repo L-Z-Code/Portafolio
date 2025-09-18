@@ -8,7 +8,7 @@ Somos un equipo de programadores que trabajamos en proyectos web, software y sis
 ## 🌐 Encuéntranos
 - [LinkedIn de Yaritza Lopez](https://www.linkedin.com/in/yaritza-bustos-873796269/)
 - [LinkedIn de Gustavo Zamora](https://www.linkedin.com/in/gustavo-zamora-aa7359170)
-- [GitHub de Yari](https://github.com/yaritzaelena)
+- [GitHub de Yaritza](https://github.com/yaritzaelena)
 - [GitHub de Gustavo](https://github.com/Zamo98)
 
 ---
